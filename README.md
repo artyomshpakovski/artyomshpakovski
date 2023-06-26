@@ -12,7 +12,7 @@ I am a student of [Belarusian State University](https://bsu.by/en/) on the [Facu
     </a>
 
 
-### Languages
+## Languages
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/artyomshpakovski)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/artyomshpakovski)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/artyomshpakovski)
@@ -21,12 +21,12 @@ I am a student of [Belarusian State University](https://bsu.by/en/) on the [Facu
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html)](https://github.com/artyomshpakovski)
 [![JavaScipt](https://img.shields.io/badge/JavaScipt-black?style=for-the-badge&logo=javascipt)](https://github.com/artyomshpakovski)
 
-### Technologies & Frameworks
+## Technologies & Frameworks
 [![QT](https://img.shields.io/badge/QT-black?style=for-the-badge&logo=QT)](https://github.com/artyomshpakovski)
 [![Boost](https://img.shields.io/badge/Boost-black?style=for-the-badge&logo=cplusplus)](https://github.com/artyomshpakovski)
 [![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite)](https://github.com/artyomshpakovski)
 
-### OS
+## OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Kiriller102)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Kiriller102)
 
