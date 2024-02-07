@@ -27,8 +27,8 @@ I am a student of [Belarusian State University](https://bsu.by/en/) on the [Facu
 [![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite)](https://github.com/artyomshpakovski)
 
 ## OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Kiriller102)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Kiriller102)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/artyomshpakovski)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/artyomshpakovski)
 
 ## :octocat: GitHub Stats:
 <p align="center">
