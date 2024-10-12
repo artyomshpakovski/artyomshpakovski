@@ -7,7 +7,7 @@ I am a student of [Belarusian State University](https://bsu.by/en/) on the [Facu
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artyom-shpakovski-1233b0251/) 
-<a href="https://github.com/artyomshpakovski/Operating-Systems/blob/main/ArtyomShpakovskiCV.pdf">
+<a href="https://github.com/artyomshpakovski/artyomshpakovski/blob/main/ArtyomShpakovskiCV.pdf">
         <img src="https://img.shields.io/badge/CV-blue?style=flat-square" alt="CV">
     </a>
 
