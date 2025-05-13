@@ -16,14 +16,9 @@ I am a student of [Belarusian State University](https://bsu.by/en/) on the [Facu
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/artyomshpakovski)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/artyomshpakovski)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/artyomshpakovski)
-[![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/artyomshpakovski)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/artyomshpakovski)
-[![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html)](https://github.com/artyomshpakovski)
-[![JavaScipt](https://img.shields.io/badge/JavaScipt-black?style=for-the-badge&logo=javascipt)](https://github.com/artyomshpakovski)
 
 ## Technologies & Frameworks
-[![QT](https://img.shields.io/badge/QT-black?style=for-the-badge&logo=QT)](https://github.com/artyomshpakovski)
-[![Boost](https://img.shields.io/badge/Boost-black?style=for-the-badge&logo=cplusplus)](https://github.com/artyomshpakovski)
 [![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite)](https://github.com/artyomshpakovski)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
